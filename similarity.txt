@@ -1,0 +1,10 @@
+input_audio,output_audio,similarity_score
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__default.wav,0.992725
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__friendly.wav,0.993728
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__cheerful.wav,0.992172
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__excited.wav,0.994049
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__sad.wav,0.994085
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__angry.wav,0.995002
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__terrified.wav,0.993905
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__shouting.wav,0.995658
+01_M_native/a boy looking at the frog.wav,01_M_native/a boy looking at the frog__whispering.wav,0.994528
